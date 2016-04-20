@@ -37,6 +37,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerManagement.Api", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerManagement.Tests", "CustomerManagement\New\CustomerManagement.Tests\CustomerManagement.Tests.csproj", "{E9291195-4EE9-4B42-A5C0-75169DC70556}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{EB2D79C8-F61A-4E89-B5B1-F570B6DCF116}"
+	ProjectSection(SolutionItems) = preProject
+		docs\1-csharp-applying-functional-principles-m1-slides.pdf = docs\1-csharp-applying-functional-principles-m1-slides.pdf
+		docs\2-csharp-applying-functional-principles-m2-slides.pdf = docs\2-csharp-applying-functional-principles-m2-slides.pdf
+		docs\3-csharp-applying-functional-principles-m3-slides.pdf = docs\3-csharp-applying-functional-principles-m3-slides.pdf
+		docs\4-csharp-applying-functional-principles-m4-slides.pdf = docs\4-csharp-applying-functional-principles-m4-slides.pdf
+		docs\5-csharp-applying-functional-principles-m5-slides.pdf = docs\5-csharp-applying-functional-principles-m5-slides.pdf
+		docs\6-csharp-applying-functional-principles-m6-slides.pdf = docs\6-csharp-applying-functional-principles-m6-slides.pdf
+		docs\7-csharp-applying-functional-principles-m7-slides.pdf = docs\7-csharp-applying-functional-principles-m7-slides.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
